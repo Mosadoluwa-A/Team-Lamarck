@@ -9,7 +9,7 @@
 ## The languages are 
 - [ ] Python
 - [x] Julia
-- [ ] C++
+- [ ] Bash Script
 - [ ] PHP
 - [x] Javascript
 - [ ] R
