@@ -1,7 +1,7 @@
 
 var name = "Mosadoluwa Agbonyin"
 var email = "magbonyin@gmail.com"
-var slackUsername = "Dolu"
+var slackUsername = "@Dolu"
 var biostack = "Cheminformatics"
 
 print(name)
