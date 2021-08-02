@@ -11,7 +11,7 @@
 - [ ] Julia
 - [ ] C++
 - [ ] PHP
-- [ ] Javascript
+- [x] Javascript
 - [ ] R
 - [ ] Swift
 
