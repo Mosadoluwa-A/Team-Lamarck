@@ -2,5 +2,5 @@ name = "Olukorede"
 print(name)
 email_address = "corededami@gmail.com"
 print(email_address)
-slackusername = "Korede"
-print("@"slackusername)
+slackusername = "@Korede"
+print(slackusername)
