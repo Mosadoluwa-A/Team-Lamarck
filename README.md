@@ -8,7 +8,7 @@
 
 ## The languages are 
 - [ ] Python
-- [ ] Julia
+- [x] Julia
 - [ ] C++
 - [ ] PHP
 - [x] Javascript
