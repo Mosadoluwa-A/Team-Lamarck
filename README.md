@@ -17,3 +17,8 @@
 
 Note: You can select any of the languages that you have seen on the repo
 
+## Contributors so far
+- @CodedSAM
+- @Solomon
+- @Korede
+- @Dolu
