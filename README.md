@@ -7,7 +7,7 @@
 - We are working with at least 7 different languages
 
 ## The languages are 
-- [ ] Python
+- [x] Python
 - [x] Julia
 - [ ] Bash Script
 - [ ] PHP
