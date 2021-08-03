@@ -7,13 +7,18 @@
 - We are working with at least 7 different languages
 
 ## The languages are 
-- [ ] Python
-- [ ] Julia
-- [ ] C++
+- [x] Python
+- [x] Julia
+- [ ] Bash Script
 - [ ] PHP
 - [x] Javascript
 - [ ] R
-- [ ] Swift
+- [x] Swift
 
 Note: You can select any of the languages that you have seen on the repo
 
+## Contributors so far
+- @CodedSAM
+- @Solomon
+- @Korede
+- @Dolu
