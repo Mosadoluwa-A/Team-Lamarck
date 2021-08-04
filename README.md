@@ -10,6 +10,7 @@
 - [x] Python
 - [x] Julia
 - [x] C
+- [x] C++
 - [ ] PHP
 - [x] Javascript
 - [ ] R
@@ -23,3 +24,4 @@ Note: You can select any of the languages that you have seen on the repo
 - @Korede
 - @Dolu
 - @Malak
+- @Mostafa
