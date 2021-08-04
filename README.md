@@ -9,7 +9,7 @@
 ## The languages are 
 - [x] Python
 - [x] Julia
-- [ ] Bash Script
+- [x] C
 - [ ] PHP
 - [x] Javascript
 - [ ] R
@@ -22,3 +22,4 @@ Note: You can select any of the languages that you have seen on the repo
 - @Solomon
 - @Korede
 - @Dolu
+- @Malak
