@@ -1,8 +1,17 @@
 name = "Olukorede"
-print(name)
 email_address = "corededami@gmail.com"
-print(email_address)
 slackusername = "@Korede"
-print(slackusername)
-biostack = "drug development"
-print(biostack)
+twitter_username = "@Coreyy"
+biostack = "Drug development"
+
+def hamming_distance(s1,s2):
+    count = 0
+
+    for i in range(len(s1)):
+        if s1[i] != s2[i]:
+            count += 1
+    return count
+
+print(name, email_address, slackusername,twitter_username, biostack, sep = "\n")
+hamming = hamming_distance(twitter_username, slackusername)
+print("The hamming distance is", hamming)
