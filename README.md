@@ -13,7 +13,7 @@
 - [x] C++
 - [ ] PHP
 - [x] Javascript
-- [ x] R
+- [ ] R
 - [x] Swift
 
 Note: You can select any of the languages that you have seen on the repo
