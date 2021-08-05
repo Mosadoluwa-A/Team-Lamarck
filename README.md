@@ -100,7 +100,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 <p align="center">
-<img src="" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/77963733/128381994-38c4f4d8-8b5d-47e8-bb66-498aa8f5ebd7.jpg" width="300" height="300">
 
 
 - `@Korede` 
