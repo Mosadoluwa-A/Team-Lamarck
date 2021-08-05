@@ -104,8 +104,8 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 - `@Korede` 
-- Student, 
-- Interested in 
+- Pharmacist, X-Mafem Pharmacy
+- Interested in drug research and drug development
 - 👋👉https://www.linkedin.com/in/olukorede-damilola-243a40131
 
 
