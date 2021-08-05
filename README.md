@@ -25,7 +25,7 @@ The utmost priority of this project is to write small scripts in different langu
 <h3 align="left"> The languages we are working with</h3>
 
 - [x] Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
-- [x] Julia <img src="https://julialang.org/assets/infra/logo.svg" alt="rust" width="20" height="20"/> </a>
+- [x] Java <img src="https://user-images.githubusercontent.com/77963733/128340182-b8fac76f-fd0c-41f2-afb3-63b0b70fd9ce.jpg" alt="rust" width="20" height="20"/> </a>
 - [x] C <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a> 
 - [x] PHP <img src="https://user-images.githubusercontent.com/77963733/128209932-b3697449-3917-4348-9fa2-6912c8646369.png" width="20" height="20">
 - [x] Javascript <img src="https://user-images.githubusercontent.com/77963733/128212530-0c20444b-f23b-4201-9dca-cfc016ad3b73.png" width="20" height="20">
