@@ -113,7 +113,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 - `@Dolu` 
 - Student, 
-- Interested in 
+- Interested in Data science, Neuroscience, Bioinformatics 
 - 
 
 
