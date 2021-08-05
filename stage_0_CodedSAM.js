@@ -4,7 +4,6 @@ const slack = "@CodedSAM";
 const biostack = "Software Development";
 const twitter = "@CodedSAM_";
 
-// function to calculate Hamming distance
 function hammingDist(str1, str2)
 {
     let i = 0, count = 0;
