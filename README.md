@@ -67,7 +67,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 **Contributors:**
 
 
-<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+<img align="left" src="" width="120" height="120">
 
 
 - `@CodedSam` 
@@ -94,7 +94,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 
-<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+<img align="left" src="" width="120" height="120">
 
 
 - `@Korede` 
@@ -108,7 +108,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 
-<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+<img align="left" src="" width="120" height="120">
 
 
 - `@Dolu` 
@@ -122,7 +122,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 
-<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+<img align="left" src="" width="120" height="120">
 
 
 - `@Mostafa` 
@@ -136,7 +136,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 
-<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+<img align="left" src="" width="120" height="120">
 
 
 - `@Kwabena` 
@@ -151,7 +151,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 
-<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+<img align="left" src="" width="120" height="120">
 
 
 - `@Bodeekerin` 
@@ -165,7 +165,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 
-<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+<img align="left" src="" width="120" height="120">
 
 
 - `@Deeuniqu` 
@@ -180,10 +180,10 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 
-<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+<img align="left" src="" width="120" height="120">
 
 
-- `@Solomon` 
+- `Blank` 
 - Student, 
 - Interested in 
 - 
