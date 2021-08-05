@@ -66,8 +66,8 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 **Contributors:**
 
-
-<img align="left" src="" width="120" height="120">
+<p align="center">
+<img src="" width="300" height="300">
 
 
 - `@CodedSam` 
@@ -79,8 +79,8 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 
-
-<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="300" height="300">
 
 
 - `@Solomon` 
@@ -93,8 +93,8 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 
-
-<img align="left" src="" width="120" height="120">
+<p align="center">
+<img src="" width="300" height="300">
 
 
 - `@Korede` 
@@ -107,8 +107,8 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 
-
-<img align="left" src="" width="120" height="120">
+<p align="center">
+<img src="" width="300" height="300">
 
 
 - `@Dolu` 
@@ -121,8 +121,8 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 
-
-<img align="left" src="" width="120" height="120">
+<p align="center">
+<img src="" width="300" height="300">
 
 
 - `@Mostafa` 
@@ -135,8 +135,8 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 
-
-<img align="left" src="" width="120" height="120">
+<p align="center">
+<img src="" width="300" height="300">
 
 
 - `@Kwabena` 
@@ -150,8 +150,8 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 
-
-<img align="left" src="" width="120" height="120">
+<p align="center">
+<img src="" width="300" height="300">
 
 
 - `@Bodeekerin` 
@@ -164,8 +164,8 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 
-
-<img align="left" src="" width="120" height="120">
+<p align="center">
+<img src="" width="300" height="300">
 
 
 - `@Deeuniqu` 
@@ -179,8 +179,8 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 
-
-<img align="left" src="" width="120" height="120">
+<p align="center">
+<img src="" width="300" height="300">
 
 
 - `Blank` 
