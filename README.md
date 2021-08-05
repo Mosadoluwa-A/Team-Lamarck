@@ -90,8 +90,8 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 - `@Solomon` 
-- Student, 
-- Interested in 
+- Microbiology student, University of Lagos, Nigeria 
+- Interested in computational genomics, metagenomics, transcriptomics, software development and biotechnology
 - 
 
 
