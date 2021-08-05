@@ -77,9 +77,9 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 - `@CodedSam` 
-- Student, 
+- Back End Developer, Zuri Team 
 - Interested in  
-- 👋👉
+- 👋👉https://www.linkedin.com/in/samuel-anozie-coded
 
 
 
