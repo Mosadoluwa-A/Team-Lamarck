@@ -76,7 +76,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 <img src="https://ca.slack-edge.com/T025KDN24L8-U02AECH95UY-c3cf6d654b10-512" width="300" height="300">
 
 
-- `@CodedSam` 
+- `@CodedSam` <img src="https://user-images.githubusercontent.com/77963733/128212530-0c20444b-f23b-4201-9dca-cfc016ad3b73.png" width="20" height="20">
 - Back End Developer, Zuri Team 
 - Passionate about research that would help provide solutions to health problems with personal management and nutritional diet. Also a tech lover.  
 - 👋👉https://www.linkedin.com/in/samuel-anozie-coded
@@ -89,7 +89,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 <img src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="300" height="300">
 
 
-- `@Solomon` 
+- `@Solomon` <img src="https://user-images.githubusercontent.com/77963733/128340182-b8fac76f-fd0c-41f2-afb3-63b0b70fd9ce.jpg" alt="rust" width="20" height="20"/> </a>
 - Microbiology student, University of Lagos, Nigeria 
 - Interested in computational genomics, metagenomics, transcriptomics, software development and biotechnology
 - 👋👉https://www.linkedin.com/in/solomon-olorundare-4bb9a6186
@@ -103,7 +103,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 <img src="https://user-images.githubusercontent.com/77963733/128381994-38c4f4d8-8b5d-47e8-bb66-498aa8f5ebd7.jpg" width="300" height="300">
 
 
-- `@Korede` 
+- `@Korede` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
 - Pharmacist, X-Mafem Pharmacy
 - Interested in drug research and drug development
 - 👋👉https://www.linkedin.com/in/olukorede-damilola-243a40131
@@ -117,7 +117,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHxhK1min6uGw/profile-displayphoto-shrink_800_800/0/1621018135084?e=1633564800&v=beta&t=m_xinCOUFYhxL-VGoWHHorrjtmvyxJQEK_N0jV4vZdk" width="300" height="300">
 
 
-- `@Dolu` **(Team Leader)**
+- `@Dolu` <img src="https://user-images.githubusercontent.com/77963733/128212820-3e69c873-537f-4657-b52b-938b4ac248f0.png" width="20" height="20"> **(Team Leader)**
 - IT Officer, Damien Foundation Belgium, Nigeria
 - Interested in Data science, Neuroscience, Bioinformatics 
 - 👋👉https://www.linkedin.com/in/mosadoluwa-agbonyin-799593148
@@ -131,7 +131,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 <img src="https://user-images.githubusercontent.com/77963733/128388903-eb583eb8-307b-4eb4-9aaa-deb6fdbb52b2.JPG" width="300" height="300">
 
 
-- `@Mostafa` 
+- `@Mostafa`  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> </a> 
 - Student, 
 - Interested in 
 - 👋👉
@@ -145,7 +145,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 <img src="https://user-images.githubusercontent.com/77963733/128388498-26a6faec-4619-4764-a7b4-6bc9a67edaa6.jpg" width="300" height="300">
 
 
-- `@Kwabena` 
+- `@Kwabena` <img src="https://www.r-project.org/Rlogo.png" alt="rust" width="20" height="20"/> </a>
 - Graduate researcher and teaching assistant, University of Ghana, Ghana  
 - Interested in genomics, data science and machine learning
 - 👋👉https://www.linkedin.com/in/bright-yemi-9b8780111
@@ -160,7 +160,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHYa17lhwQ5KA/profile-displayphoto-shrink_800_800/0/1546329808376?e=1633564800&v=beta&t=hnPcVHHCAes98oeUfaDU0Wac6WbcZanvRbP1rfVe02Q" width="300" height="300">
 
 
-- `@Bodeekerin` 
+- `@bodeekerin` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
 - Medical House Officer, Obafemi Awolowo University Teaching Hospital 
 - Interested in 
 - 👋👉https://www.linkedin.com/in/bodeekerin
@@ -174,7 +174,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGNBcyyu9HlUA/profile-displayphoto-shrink_800_800/0/1619426752643?e=1633564800&v=beta&t=JkycRfj9aU1NyuWDevLbaVuCeZnYvrBrOTtNqA6pM_I" width="300" height="300">
 
 
-- `@Deeunique` 
+- `@Deeunique` <img src="https://user-images.githubusercontent.com/77963733/128209932-b3697449-3917-4348-9fa2-6912c8646369.png" width="20" height="20">
 - Graduate, University of Ibadan
 - Interested in 
 - 👋👉https://www.linkedin.com/in/adeyinka-o-adefowora-134101a1
@@ -189,7 +189,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 <img src="https://ca.slack-edge.com/T025KDN24L8-U02AAP498SV-a47a89aa7aa0-512" width="300" height="300">
 
 
-- `Malak` 
+- `Malak` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a> 
 - Biomedical Informatics Student, Nile University
 - Interested in programming and biomedical sciences related feilds
 - 👋👉https://www.linkedin.com/in/malak-soliman-418a74154
