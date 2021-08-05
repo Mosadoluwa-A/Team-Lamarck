@@ -174,7 +174,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 <img src="" width="300" height="300">
 
 
-- `@Deeuniqu` 
+- `@Deeunique` 
 - Student, 
 - Interested in 
 - 👋👉
@@ -190,7 +190,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 - `Malak` 
-- Student, 
+- Biomedical Informatics Student, Nile University
 - Interested in programming and biomedical sciences related feilds
 - 👋👉https://www.linkedin.com/in/malak-soliman-418a74154
 
