@@ -73,12 +73,12 @@ Individual committment to a group effort- that is what makes a team work, a comp
 **Contributors:**
 
 <p align="center">
-<img src="" width="300" height="300">
+<img src="https://ca.slack-edge.com/T025KDN24L8-U02AECH95UY-c3cf6d654b10-512" width="300" height="300">
 
 
 - `@CodedSam` 
 - Back End Developer, Zuri Team 
-- Interested in  
+- Passionate about research that would help provide solutions to health problems with personal management and nutritional diet. Also a tech lover.  
 - 👋👉https://www.linkedin.com/in/samuel-anozie-coded
 
 
@@ -186,7 +186,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 <p align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C5603AQFuFZvdPZ7A2w/profile-displayphoto-shrink_800_800/0/1582224361690?e=1633564800&v=beta&t=emLnLOYlAIn2MyMNCEpHz4TzI5IbiHKjGUevSt0vE3s" width="300" height="300">
+<img src="https://ca.slack-edge.com/T025KDN24L8-U02AAP498SV-a47a89aa7aa0-512" width="300" height="300">
 
 
 - `Malak` 
