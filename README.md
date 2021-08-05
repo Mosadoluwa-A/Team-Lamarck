@@ -175,9 +175,9 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 - `@Deeunique` 
-- Student, 
+- Graduate, University of Ibadan
 - Interested in 
-- 👋👉
+- 👋👉https://www.linkedin.com/in/adeyinka-o-adefowora-134101a1
 
 
 
