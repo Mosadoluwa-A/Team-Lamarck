@@ -148,7 +148,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 - `@Kwabena` 
 - Student,  
 - Interested in 
-- 👋👉
+- 👋👉https://www.linkedin.com/in/bright-yemi-9b8780111
 
 
 
