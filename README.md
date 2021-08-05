@@ -65,28 +65,129 @@ hammingdistance: x
 Individual committment to a group effort- that is what makes a team work, a company work, a society work, a civilization work - **Vince Lombardi**. Any contributions you make are **greatly appreciated** 👏👍
 
 **Contributors:**
-- `@CodedSAM`
 
 
-<img src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+
+
+- `@CodedSam` 
+- Student, 
+- Interested in  
+- 
+
+
+
+
+
+
+<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+
 
 - `@Solomon` 
-- Student, University of Lagos, Nigeria 
-- Interested in Genomics 
+- Student, 
+- Interested in 
+- 
 
+
+
+
+
+
+
+<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+
+
+- `@Korede` 
+- Student, 
+- Interested in 
+- 
+
+
+
+
+
+
+
+<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+
+
+- `@Dolu` 
+- Student, 
+- Interested in 
+- 
+
+
+
+
+
+
+
+<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+
+
+- `@Mostafa` 
+- Student, 
+- Interested in 
+- 
+
+
+
+
+
+
+
+<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+
+
+- `@Kwabena` 
+- Student,  
+- Interested in 
+- 
+
+
+
+
+
+
+
+
+<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+
+
+- `@Bodeekerin` 
+- Student, 
+- Interested in 
 - `@Korede`
 
-- `@Dolu`
 
-- `@Malak`
 
-- `@Mostafa`
 
-- `@Kwabena`
 
-- `@Bodeekerin`
 
-- `@Deeunique`
+
+<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+
+
+- `@Deeuniqu` 
+- Student, 
+- Interested in 
+- 
+
+
+
+
+
+
+
+
+<img align="left" src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+
+
+- `@Solomon` 
+- Student, 
+- Interested in 
+- 
+
 
 
 <h1 align="center"> Kudos! #Team Lamarck</h1> 
