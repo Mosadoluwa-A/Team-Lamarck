@@ -79,7 +79,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 - `@CodedSam` 
 - Student, 
 - Interested in  
-- 
+- 👋👉
 
 
 
@@ -92,7 +92,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 - `@Solomon` 
 - Microbiology student, University of Lagos, Nigeria 
 - Interested in computational genomics, metagenomics, transcriptomics, software development and biotechnology
-- 
+- 👋👉https://www.linkedin.com/in/solomon-olorundare-4bb9a6186
 
 
 
@@ -106,7 +106,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 - `@Korede` 
 - Student, 
 - Interested in 
-- 
+- 👋👉
 
 
 
@@ -120,7 +120,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 - `@Dolu` 
 - Student, 
 - Interested in Data science, Neuroscience, Bioinformatics 
-- 
+- 👋👉
 
 
 
@@ -134,7 +134,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 - `@Mostafa` 
 - Student, 
 - Interested in 
-- 
+- 👋👉
 
 
 
@@ -148,7 +148,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 - `@Kwabena` 
 - Student,  
 - Interested in 
-- 
+- 👋👉
 
 
 
@@ -163,7 +163,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 - `@Bodeekerin` 
 - Student, 
 - Interested in 
-- 
+- 👋👉
 
 
 
@@ -177,7 +177,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 - `@Deeuniqu` 
 - Student, 
 - Interested in 
-- 
+- 👋👉
 
 
 
@@ -192,7 +192,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 - `Blank` 
 - Student, 
 - Interested in 
-- 
+- 👋👉
 
 
 
