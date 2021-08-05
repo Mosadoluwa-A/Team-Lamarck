@@ -68,7 +68,11 @@ Individual committment to a group effort- that is what makes a team work, a comp
 - `@CodedSAM`
 
 
-<img src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="200" height="200"> - `@Solomon`                          Student, University of Lagos, Nigeria                                                                                                                                            Interested in Genomics 
+<img src="https://user-images.githubusercontent.com/77963733/128222640-e9fb13a7-178d-42f6-8282-fcb8d27454a7.jpg" width="120" height="120">
+
+- `@Solomon` 
+- Student, University of Lagos, Nigeria 
+- Interested in Genomics 
 
 - `@Korede`
 
