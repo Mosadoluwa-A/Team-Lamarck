@@ -161,7 +161,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 - `@Bodeekerin` 
-- Student, 
+- Medical House Officer, Obafemi Awolowo University Teaching Hospital 
 - Interested in 
 - 👋👉
 
