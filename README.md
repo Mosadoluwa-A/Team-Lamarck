@@ -17,6 +17,8 @@
 - 🕯️Checkout the project we are currently working on 🔭: [https://github.com/Mosadoluwa-A/Team-Lamarck/](https://github.com/Mosadoluwa-A/Team-Lamarck/)
 
 - 📩 Just a click away to reach us🖱️: magbonyin@gmail.com
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77963733/128378693-fbf7d871-4463-4f91-b1c8-1bc60cd7c71f.png" width="400" heigth="200">
 
 # 📌Goal
 The main goal of this project is to create a bash script that will clone the repo and produce a csv file with the team members' personal information. For this goal no installation is required, however, check if all dependencies are satisfied. Please download the following script `csv-populator.sh`.
