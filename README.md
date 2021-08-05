@@ -1,6 +1,10 @@
 <h1 align="center"> Hi there👋, we are #Team Lamarck, welcome!</h1>
 <h3 align="center"> We are a team of 20 Scientists👩‍🔬(*20) for HackBio'2021 Virtual Bioinformatics Internship</h3>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77963733/128374328-ec65fac7-cfa9-45d6-ace2-9e221e128354.png" width="500" heigth="500">
+
+
 - 💊🧬🔬🖥️HackBio: [https://thehackbio.com](https://thehackbio.com)
 
 <p align="center">
