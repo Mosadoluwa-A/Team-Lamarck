@@ -117,7 +117,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 <img src="" width="300" height="300">
 
 
-- `@Dolu` 
+- `@Dolu` **Team Leader**
 - Student, 
 - Interested in Data science, Neuroscience, Bioinformatics 
 - 👋👉
