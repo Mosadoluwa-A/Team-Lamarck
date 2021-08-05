@@ -146,7 +146,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 - `@Kwabena` 
-- Graduate researcher and teaching, University of Ghana, Ghana  
+- Graduate researcher and teaching assistant, University of Ghana, Ghana  
 - Interested in genomics, data science and machine learning
 - 👋👉https://www.linkedin.com/in/bright-yemi-9b8780111
 
