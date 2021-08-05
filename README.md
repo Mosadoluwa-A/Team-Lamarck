@@ -114,7 +114,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 <p align="center">
-<img src="" width="300" height="300">
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQHxhK1min6uGw/profile-displayphoto-shrink_800_800/0/1621018135084?e=1633564800&v=beta&t=m_xinCOUFYhxL-VGoWHHorrjtmvyxJQEK_N0jV4vZdk" width="300" height="300">
 
 
 - `@Dolu` **(Team Leader)**
@@ -157,7 +157,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 <p align="center">
-<img src="" width="300" height="300">
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHYa17lhwQ5KA/profile-displayphoto-shrink_800_800/0/1546329808376?e=1633564800&v=beta&t=hnPcVHHCAes98oeUfaDU0Wac6WbcZanvRbP1rfVe02Q" width="300" height="300">
 
 
 - `@Bodeekerin` 
@@ -171,7 +171,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 <p align="center">
-<img src="" width="300" height="300">
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQGNBcyyu9HlUA/profile-displayphoto-shrink_800_800/0/1619426752643?e=1633564800&v=beta&t=JkycRfj9aU1NyuWDevLbaVuCeZnYvrBrOTtNqA6pM_I" width="300" height="300">
 
 
 - `@Deeunique` 
@@ -186,7 +186,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 <p align="center">
-<img src="" width="300" height="300">
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQFuFZvdPZ7A2w/profile-displayphoto-shrink_800_800/0/1582224361690?e=1633564800&v=beta&t=emLnLOYlAIn2MyMNCEpHz4TzI5IbiHKjGUevSt0vE3s" width="300" height="300">
 
 
 - `Malak` 
