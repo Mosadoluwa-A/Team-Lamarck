@@ -132,9 +132,9 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 - `@Mostafa`  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> </a> 
-- Student, 
+-
 - Interested in 
-- 👋👉
+- 👋👉https://www.linkedin.com/in/mostafa-ahmed-radian-114a24181
 
 
 
