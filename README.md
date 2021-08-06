@@ -118,7 +118,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 - `@Dolu` <img src="https://user-images.githubusercontent.com/77963733/128212820-3e69c873-537f-4657-b52b-938b4ac248f0.png" width="20" height="20"> **(Team Leader)**
-- IT Officer, Damien Foundation Belgium, Nigeria
+- Physiologist, Web Developer
 - Interested in Data science, Neuroscience, Bioinformatics 
 - 👋👉https://www.linkedin.com/in/mosadoluwa-agbonyin-799593148
 
