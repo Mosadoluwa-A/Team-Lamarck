@@ -222,9 +222,9 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 - `Feyintola` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
-- Student,
+- Public Health Student, Osun State University, Nigeria
 - Interested in 
-- 👋👉
+- 👋👉https://www.linkedin.com/in/firdaous-wuraola-olaoniye-794919209
 
 <h1 align="center"> Kudos! #Team Lamarck</h1> 
 <p align="center"> 
