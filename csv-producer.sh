@@ -12,7 +12,7 @@ ls *.js|parallel "node {} |awk -F': ' ' {print \$0}' |paste -sd ','>>team_lamarc
 ls *.R|parallel "Rscript {} |awk -F': ' ' {print \$0}'|paste -sd  ','>>team_lamarck.csv "
 ls *.java|parallel "java {} |awk -F': ' ' {print \$0}'|paste -sd ','>>team_lamarck.csv "
 ls *.swift|parallel "swift {} |awk -F': ' ' {print \$0}' |paste -sd ','>>team_lamarck.csv"
-ls *.php|parallel "php {} |awk -F': ' ' {print \$0}' |paste -sd ','>>team_lamarck.csv"
+ls *.php|parallel "php {} |paste -d ','>>team_lamarck.csv"
 ls *.c-program|parallel "./{} |awk -F': ' ' {print \$0}' |paste -sd ',' >>team_lamarck.csv"
 ls *.cpp-program|parallel "./{} |awk -F': ' ' {print \$0}' |paste -sd ','>>team_lamarck.csv"
 

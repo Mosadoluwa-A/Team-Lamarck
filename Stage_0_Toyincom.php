@@ -20,11 +20,11 @@
 		echo $count;
 	}
 
-	echo $name."\r\n";
-	echo $email. "\r\n";
-	echo $slack. "\r\n";
-	echo $biostack. "\r\n";
-	echo $twitter. " \r\n";
+	echo $name.",";
+	echo $email.",";
+	echo $slack. ",";
+	echo $biostack.",";
+	echo $twitter. ",";
 
 	hammingDist($slack,$twitter)
 ?>
