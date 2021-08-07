@@ -226,6 +226,10 @@ Individual committment to a group effort- that is what makes a team work, a comp
 - Interested in Data Science
 - 👋👉https://www.linkedin.com/in/firdaous-wuraola-olaoniye-794919209
 
+- `Fajembola`
+
+- `Abiola`
+
 <h1 align="center"> Kudos! #Team Lamarck</h1> 
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/77963733/128228711-7ba2d725-1552-4ba4-9cdf-bb6635469468.jpeg" width="800" height="300">
