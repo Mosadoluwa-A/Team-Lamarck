@@ -218,13 +218,13 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 <p align="center">
-<img src="" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/77963733/128600040-556daa3e-000e-411e-be92-82a6882244f2.jpg" width="300" height="300">
 
 
 - `Feyintola` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
-- Student,
-- Interested in 
-- 👋👉
+- Public Health Student, Osun State University, Nigeria
+- Interested in Data Science
+- 👋👉https://www.linkedin.com/in/firdaous-wuraola-olaoniye-794919209
 
 <h1 align="center"> Kudos! #Team Lamarck</h1> 
 <p align="center"> 
