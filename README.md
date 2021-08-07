@@ -234,8 +234,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 <p align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGQONEbjfL5ng/profile-displayphoto-shrink_800_800/0/1597394169259?e=1633564800&v=beta&t=yVNeOm2i07wdAgrrUUEDlVIgvfsT1XWxRTpPL9n5-iA
-" width="300" height="300">
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGQONEbjfL5ng/profile-displayphoto-shrink_800_800/0/1597394169259?e=1633564800&v=beta&t=yVNeOm2i07wdAgrrUUEDlVIgvfsT1XWxRTpPL9n5-iA" width="300" height="300">
 
 
 - `Fajembola` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
