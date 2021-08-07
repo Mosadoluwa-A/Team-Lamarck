@@ -1,4 +1,4 @@
-insatll.packages("stringdist")
+#install.packages("stringdist")
 
 library(stringdist)
 personal_info <- function(){
