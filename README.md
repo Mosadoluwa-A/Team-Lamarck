@@ -21,7 +21,7 @@
 <img src="https://user-images.githubusercontent.com/77963733/128378693-fbf7d871-4463-4f91-b1c8-1bc60cd7c71f.png" width="200" heigth="200">
 
 # 📌Goal
-The main goal of this project is to create a bash script that will clone the repo and produce a csv file with the team members' personal information. For this goal no installation is required, however, check if all dependencies are satisfied. Please download the following script `csv-populator.sh`.
+The main goal of this project is to create a bash script that will clone the repo and produce a csv file with the team members' personal information. For this goal no installation is required, however, check if all dependencies are satisfied. Please download the following script `csv-producer.sh`.
 # 🛠️Workflow  Process🧬
 <img align="right" src="https://user-images.githubusercontent.com/77963733/128214179-9f5bb451-9426-4ceb-b7b4-6840543e9ef4.png">
 
@@ -194,9 +194,37 @@ Individual committment to a group effort- that is what makes a team work, a comp
 - Interested in programming and biomedical sciences related feilds
 - 👋👉https://www.linkedin.com/in/malak-soliman-418a74154
 
-- `Toyincom`
 
-- `Feyintola`
+
+
+
+
+
+
+<p align="center">
+<img src="" width="300" height="300">
+
+
+- `Toyincom` <img src="https://user-images.githubusercontent.com/77963733/128209932-b3697449-3917-4348-9fa2-6912c8646369.png" width="20" height="20">
+- Student
+- Interested in
+- 👋👉
+
+
+
+
+
+
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77963733/128600040-556daa3e-000e-411e-be92-82a6882244f2.jpg" width="300" height="300">
+
+
+- `Feyintola` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
+- Public Health Student, Osun State University, Nigeria
+- Interested in Data Science
+- 👋👉https://www.linkedin.com/in/firdaous-wuraola-olaoniye-794919209
 
 <h1 align="center"> Kudos! #Team Lamarck</h1> 
 <p align="center"> 
