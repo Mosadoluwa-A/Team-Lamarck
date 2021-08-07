@@ -221,7 +221,7 @@ Individual committment to a group effort- that is what makes a team work, a comp
 <img src="" width="300" height="300">
 
 
-- `Fehintola` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
+- `Feyintola` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
 - Student,
 - Interested in 
 - 👋👉
