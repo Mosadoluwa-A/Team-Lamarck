@@ -206,8 +206,8 @@ Individual committment to a group effort- that is what makes a team work, a comp
 
 
 - `Toyincom` <img src="https://user-images.githubusercontent.com/77963733/128209932-b3697449-3917-4348-9fa2-6912c8646369.png" width="20" height="20">
-- Student
-- Interested in
+- Graduate Student, Adekunle Ajasin University
+- Interested in Software Development
 - 👋👉
 
 
