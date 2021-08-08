@@ -1,7 +1,7 @@
 print("Name:Azeezat Fajembola")
 print("E-mail: Afprish22@gmail.com")
-print("biostack: Vaccine informatics")
 print("SlackUserName:@Fajembola")
+print("biostack: Vaccine informatics")
 print("TwitterHandle:@DrPrish")
 
 def hammDist(Str1, Str2):

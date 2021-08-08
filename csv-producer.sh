@@ -7,6 +7,7 @@ ls *.c| parallel gcc -o {.}.c-program {};
 ls *.cpp| parallel g++ -o {.}.cpp-program {};
 
 echo "Time for main scripts"
+echo "Name,email,slack_username,biostack,twitter_handle,hamming_distance">>team_lamarck.csv
 ls *.py|parallel "python3 {} |awk -F': ' ' {print \$0}' |paste -sd ',' >>team_lamarck.csv"
 ls *.js|parallel "node {} |awk -F': ' ' {print \$0}' |paste -sd ','>>team_lamarck.csv "
 ls *.R|parallel "Rscript {} |awk -F': ' ' {print \$0}'|paste -sd  ','>>team_lamarck.csv "
