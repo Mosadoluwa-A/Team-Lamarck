@@ -1,1 +1,1 @@
-name = "bodeekerin"email = "bodeekerin@gmail.com"slackUsername = "bodeekerin"print (name, email, slackUsername, sep = "/n")
+name = "bodeekerin"email = "bodeekerin@gmail.com"slackUsername = "@bodeekerin"twitter_handle = "@bodeekerin"def hamming(word1, word2):	for i in range(len(word1)):		if word1[i] != word2[i]:			i += 1		return ihamming_distance = hamming(slackUsername, twitter_handle)print (name, email, slackUsername, twitter_handle, hamming_distance, sep = "\n")
